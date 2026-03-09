@@ -1,6 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.9.16)  23 OCT 2025 22:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.2.9)  9 MAR 2026 21:35
 entering extended mode
- \write18 enabled.
+ restricted \write18 enabled.
  %&-line parsing enabled.
 **Resume_Maxime_Lalisse.tex
 (./Resume_Maxime_Lalisse.tex
@@ -1606,10 +1606,6 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 12.0pt on input line 139.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 8.0pt on input line 139.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 139.
-
-(/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
 nput line 139.
 
@@ -1626,13 +1622,17 @@ LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <8> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
 n input line 139.
-<<ot1.cmap>><<oml.cmap>><<oms.cmap>>
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
+nput line 139.
+
+(/usr/share/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)<<ot1.cmap>>
+<<oml.cmap>><<oms.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <7> on input line 139.
 <<omx.cmap>>
 LaTeX Font Info:    External font `cmex7' loaded for size
 (Font)              <5> on input line 139.
-<photo.png, id=18, 192.72pt x 192.72pt>
+<photo.png, id=17, 192.72pt x 192.72pt>
 File: photo.png Graphic file (type png)
 <use photo.png>
 Package pdftex.def Info: photo.png  used on input line 139.
@@ -1656,16 +1656,16 @@ File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
 (Font)              scaled to size 9.0pt on input line 153.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 196.
+(Font)              scaled to size 10.0pt on input line 203.
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 238.
+(Font)              scaled to size 10.0pt on input line 245.
  [1
 
 {/usr/share/texmf-dist/fonts/enc/dvips/roboto/rbto_j2bk2t.enc}{/usr/share/texmf
--dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/en
+-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf-dist/fonts/en
 c/dvips/lato/a_cl4kdn.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/f
-a5free0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/
-usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/te
+a5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}
+{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/te
 xmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc} <./photo.png>]
 
 [2] (./Resume_Maxime_Lalisse.aux)
@@ -1681,12 +1681,12 @@ Package logreq Info: Writing requests to 'Resume_Maxime_Lalisse.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  43454 strings out of 475171
- 867179 string characters out of 5767095
- 1634179 words of memory out of 5000000
+ 867179 string characters out of 5767096
+ 1636180 words of memory out of 5000000
  65809 multiletter control sequences out of 15000+600000
  782728 words of font info for 70 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 117i,8n,121p,1198b,2865s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 117i,8n,121p,1198b,2866s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Reg
 ular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Fre
 e-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesom
@@ -1694,9 +1694,9 @@ e5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb
 ></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/share/t
 exmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/share/texmf-dist/fon
 ts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on Resume_Maxime_Lalisse.pdf (2 pages, 332012 bytes).
+Output written on Resume_Maxime_Lalisse.pdf (2 pages, 326590 bytes).
 PDF statistics:
- 93 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)
  50 words of extra memory for PDF output out of 10000 (max. 10000000)
 
