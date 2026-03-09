@@ -1,0 +1,9 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'Resume_Maxime_Lalisse.blg'
+[38] biber:342> INFO - === Thu Sep 18, 2025, 16:42:37
+[47] Biber.pm:421> INFO - Reading 'Resume_Maxime_Lalisse.bcf'
+[85] Biber.pm:1002> INFO - Found 0 citekeys in bib section 0
+[96] bbl.pm:676> INFO - Writing 'Resume_Maxime_Lalisse.bbl' with encoding 'UTF-8'
+[96] bbl.pm:779> INFO - Output to Resume_Maxime_Lalisse.bbl
+[96] Biber.pm:132> WARN - The file 'Resume_Maxime_Lalisse.bcf' does not contain any citations!
+[96] Biber.pm:134> INFO - WARNINGS: 1
