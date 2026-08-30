@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.2.9)  28 MAR 2026 16:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.2.9)  28 MAR 2026 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1678,7 +1678,7 @@ Package logreq Info: Writing requests to 'resume_en.run.xml'.
 Here is how much of TeX's memory you used:
  43451 strings out of 475171
  866777 string characters out of 5767096
- 1636120 words of memory out of 5000000
+ 1635120 words of memory out of 5000000
  65807 multiletter control sequences out of 15000+600000
  782047 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -1690,7 +1690,7 @@ e5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb
 ></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/share/t
 exmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb></usr/share/texmf-dist/fon
 ts/type1/google/roboto/RobotoSlab-Bold.pfb>
-Output written on resume_en.pdf (2 pages, 319188 bytes).
+Output written on resume_en.pdf (2 pages, 318879 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)

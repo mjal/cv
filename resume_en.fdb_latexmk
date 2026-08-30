@@ -1,11 +1,11 @@
 # Fdb version 4
-["biber resume_en"] 1774713152.71864 "resume_en.bcf" "resume_en.bbl" "resume_en" 1774713155.52448 0
-  "resume_en.bcf" 1774713155.42658 108078 e41ea33e39ad626885dd7dc7c47ade28 "pdflatex"
+["biber resume_en"] 1774713152.71864 "resume_en.bcf" "resume_en.bbl" "resume_en" 1774716763.6203 0
+  "resume_en.bcf" 1774716763.50995 108078 e41ea33e39ad626885dd7dc7c47ade28 "pdflatex"
   (generated)
   "resume_en.bbl"
   "resume_en.blg"
   (rewritten before read)
-["pdflatex"] 1774713154.38795 "resume_en.tex" "resume_en.pdf" "resume_en" 1774713155.52472 0
+["pdflatex"] 1774716762.44921 "resume_en.tex" "resume_en.pdf" "resume_en" 1774716763.62054 0
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1767555874 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1767555874 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1767555874 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -254,14 +254,14 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1770639416 5311557 9da84c45f5b388655502706482323571 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1770639349 2008235 e06c500823e644388123e2636d3b38d0 ""
   "altacv.cls" 1758800069.24549 17713 2766496d895be383a78bb8c4388bb69f ""
-  "pdfa.xmpi" 1774713154.6536 5042 f87e4a97a9144acbfffc8b594dd6e113 "pdflatex"
+  "pdfa.xmpi" 1774716762.72696 5042 9e62dc1cece19f6716a346559c2f5754 "pdflatex"
   "photo.png" 1758800069.24711 132252 d0cdcdae2aa67278162024428ae553cd ""
   "pubs-num.cfg" 1758800069.24652 430 c0bbeafd1d4c738c415f863f7e62a637 ""
-  "resume_en.aux" 1774713155.42358 279 22dbea1344fcc4a94bc5e9abf756cf9e "pdflatex"
+  "resume_en.aux" 1774716763.50695 279 22dbea1344fcc4a94bc5e9abf756cf9e "pdflatex"
   "resume_en.bbl" 1774713153.23164 466 76d65a242ec496c9b4361af646ff12cb "biber resume_en"
-  "resume_en.out" 1774713155.16159 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "resume_en.run.xml" 1774713155.42788 2433 e6c35fe5ca6d48c5fc8e5f265498b4e6 "pdflatex"
-  "resume_en.tex" 1774712835.96988 11848 be2cb0451bd3f1a85e414310601eee8c ""
+  "resume_en.out" 1774716763.23495 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "resume_en.run.xml" 1774716763.51104 2433 e6c35fe5ca6d48c5fc8e5f265498b4e6 "pdflatex"
+  "resume_en.tex" 1774716757.07101 11827 ad582698a49e48ba5513f2177f8e3e66 ""
   (generated)
   "pdfa.xmpi"
   "resume_en.aux"
